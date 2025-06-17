@@ -1,0 +1,111 @@
+body {
+  background-color: rgb(231, 231, 231);
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.header {
+  display: flex;
+  justify-content: center;
+  background: white;
+  margin-top: 0%;
+  margin-bottom: 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.post1 {
+  background: rgb(231, 231, 231);
+  display: flex;
+  justify-content: center;
+  justify-self: center;
+  align-items: center;
+  flex-direction: column;
+  width: 700px;
+  
+}
+.post2 {
+  background: rgb(231, 231, 231);
+  display: flex;
+  justify-content: center;
+  justify-self: center;
+  align-items: center;
+  flex-direction: column;
+  width: 700px;
+  
+}
+.post3 {
+  background: rgb(255, 255, 255);
+  display: flex;
+  justify-content: center;
+  justify-self: center;
+  align-items: center;
+  flex-direction: column;
+  width: 700px;
+  height: 500px;
+  margin-top: 40px;
+  
+}
+.nombreFecha {
+  background: white;
+  margin-bottom: 0px;
+  margin-top: 10px;
+  height: 50px;
+  width: 692px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  justify-self: center;
+  padding: 4px;
+}
+.imagen {
+  display: flex;
+  justify-content: center;
+  
+  
+}
+p {
+  opacity: 40%;
+}
+.descripcion1{
+  background: white;
+   background: white;
+  margin-bottom: 50px;
+  margin-top: 0px;
+  height: 40px;
+  width: 692px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  justify-self: center;
+  padding: 4px;
+}
+.descripcion2{
+  background: white;
+   background: white;
+  margin-bottom: 50px;
+  margin-top: 0px;
+  height: 40px;
+  width: 692px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  justify-self: center;
+  padding: 4px;
+}
+.descripcion3{
+  background: white;
+   background: white;
+  margin-bottom: 50px;
+  margin-top: 0px;
+  height: 40px;
+  width: 692px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  justify-self: center;
+  padding: 4px;
+}
